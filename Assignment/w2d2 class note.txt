@@ -1,0 +1,6 @@
+
+
+---------------Array---------------
+r/n ship  between size& length
+    size-1===length-last_index
+    

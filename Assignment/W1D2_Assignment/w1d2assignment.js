@@ -3,7 +3,7 @@ const prompt=require("prompt-sync")();
 
 // console.log("Answer for question 1")
 
-let volQuart=+prompt("please enter quart in number  ")
+let volQuart=+prompt("please enter quart in number  ");
 let volLitter=volQuart*0.946353
 console.log(volQuart+" quart is "+volLitter+" litter")
 
